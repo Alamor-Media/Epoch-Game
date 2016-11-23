@@ -1,2 +1,2 @@
 # Epoch-Game
-An incremental game inspired by "a dark room", "Kittens", and "Trimps"
+An incremental, text only game inspired by "A Dark Room", "Kittens", and "Trimps", and "Civilization".
